@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project, a **final model task in an IBM course**, involves an exploratory data analysis (EDA) on datasets related to Canadian agriculture and financial exchange rates using `rSQLite` for data management and queries.
+This project, a **final model task in an IBM course**, involves an exploratory data analysis (EDA) on datasets related to Canadian agriculture and financial exchange rates using `rSQLite` 
 
 ### Datasets
 
