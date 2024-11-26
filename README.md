@@ -1,4 +1,4 @@
-## Exploratory Data Analysis (EDA) Summary
+## Canadian Crop data EDA
 
 ### Overview
 
@@ -57,5 +57,5 @@ This project, a **final model task in an IBM course**, involves an exploratory d
 - **Range (CAD)**: `462.88` to `507.33` per metric tonne
 - **Range (USD)**: `342.91` to `396.11` per metric tonne
 
-
+I might update this file if I decide to explore it further which I already did during the time of completing it.
 
